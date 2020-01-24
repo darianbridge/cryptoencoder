@@ -25,3 +25,8 @@ hs_err_pid*
 /target/
 /bin/
 
+# Data files
+public.pem
+private.pem
+keyfile.txt
+
